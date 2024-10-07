@@ -39,7 +39,7 @@ The assignment has three parts:
 
 5. **Running the Code**: Navigate to the project directory and run the Python script:
    ```bash
-   python new.py
+   python S20220010125_FDDM.py
    ```
 
 ## Troubleshooting
